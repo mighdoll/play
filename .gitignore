@@ -120,3 +120,5 @@ samples-and-tests/zencontact/precompiled
 !modules/grizzly
 !modules/secure
 !framework/src/play/db
+!modules/scala
+!modules/scalate
